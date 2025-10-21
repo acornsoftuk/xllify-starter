@@ -4,6 +4,8 @@ This repo demonstrates using the [xllify-build](https://github.com/marketplace/a
 
 This is a template repo so you can create a copy of it and have a ready to build custom function XLL ready to download in about a minute (depending on how fast the runner your build lands on - it can vary.)
 
+Slightly more sophisticated demos are available in the [xllify-demo](https://github.com/acornsoftuk/xllify-demo) repo. You can download a built XLL straight from the releases page.
+
 ## Experiment building an XLL entirely on GitHub
 
 No need for any installation or Windows development setup. Just a browser (and Microsoft Excel for Windows, if you want to download and run your masterpiece.)
