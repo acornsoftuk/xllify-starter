@@ -1,4 +1,4 @@
-name: Demo XLL build
+name: xllify Starter
 
 permissions:
   contents: write
