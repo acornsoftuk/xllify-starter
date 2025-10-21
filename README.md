@@ -14,13 +14,13 @@ Some familiarity with the GitHub Actions UI is expected but, briefly:
 
 ### Initial build
 
-- Create a repo using this one as a template
-- Go to the Actions tab, select **xllify Starter** and click on Run
+- Select **Use this template** (the green button on the top right) and **Create a new repository**
+- Go to the Actions tab, select **xllify Starter** and click on Run workflow
   - This will build an XLL
 - Find the workflow run and observe the build
-- When the build completes, you can download the xll - it's there as an attached asset
+- When the build completes, click on **Summary** and scroll to the artifacts section. You can download the xll, it's attached!
 - Unblock the downloaded file and move it out of your Downloads folder. Desktop is fine. More info: https://support.microsoft.com/en-gb/topic/excel-is-blocking-untrusted-xll-add-ins-by-default-1e3752e2-1177-4444-a807-7b700266a6fb
-- Double click the .xll to open Excel
+- Double click the .xll to open in Excel
 - You'll see a dialog box that the add-in has started
 - In a new sheet add `xllify.Demo.Hello()` to a cell
 
