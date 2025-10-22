@@ -2,7 +2,7 @@
 
 This repo demonstrates using the [xllify-build](https://github.com/marketplace/actions/xllify-build) action to package some simple custom functions from [main.luau](main.luau)
 
-This is a template repo so you can create a copy of it and have a ready to build custom function XLL ready to download in about a minute (depending on how fast the runner your build lands on - it can vary.)
+This is a template repo so you can create a copy of it and have a ready to build custom function XLL ready to download in about a minute (depending on how fast the runner your build lands on is - it can vary.)
 
 Slightly more sophisticated demos are available in the [xllify-demo](https://github.com/acornsoftuk/xllify-demo) repo. You can download a built XLL straight from the releases page.
 
@@ -19,7 +19,7 @@ Some familiarity with the GitHub Actions UI is helpful but, briefly:
 - Select **Use this template** (the green button on the top right) and **Create a new repository**
 - Go to the Actions tab, select **xllify Starter** and click on Run workflow
   - This will build an XLL
-- Find the workflow run and observe the build
+- Find the workflow run and observe the build, should take about 40 seconds - **this'll count towards your GitHub Actions minutes (consumed at 2x), but as everyone gets a free quota it shouldn't cost much, if anything.**
 - When the build completes, click on **Summary** and scroll to the artifacts section. You can download the xll, it's attached!
 - Unblock the downloaded file and move it out of your Downloads folder. Desktop is fine. More info: https://support.microsoft.com/en-gb/topic/excel-is-blocking-untrusted-xll-add-ins-by-default-1e3752e2-1177-4444-a807-7b700266a6fb
 - Double click the .xll to open in Excel
