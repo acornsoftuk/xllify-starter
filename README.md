@@ -6,7 +6,7 @@ This is a template repo so you can create a copy of it and have a ready to build
 
 Slightly more sophisticated demos are available in the [xllify-demo](https://github.com/acornsoftuk/xllify-demo) repo. You can download a built XLL straight from the releases page.
 
-## Experiment building an XLL entirely on GitHub
+## Get started, entirely through the GitHub
 
 No need for any installation or Windows development setup. Just a browser (and Microsoft Excel for Windows, if you want to download and run your masterpiece.)
 
@@ -16,10 +16,10 @@ Some familiarity with the GitHub Actions UI is helpful but, briefly:
 
 ### Initial build
 
-- [Use this template to create a repository](https://github.com/new?template_name=xllify-starter&template_owner=acornsoftuk)
+- [Use this template to create your own repository](https://github.com/new?template_name=xllify-starter&template_owner=acornsoftuk)
 - Go to the Actions tab, select **xllify Starter** and click on Run workflow
   - This will build an XLL
-- Find the workflow run and observe the build, should take about 40 seconds - **this'll count towards your GitHub Actions minutes (consumed at 2x), but as everyone gets a free quota it shouldn't cost much, if anything.**
+- Find the workflow run and observe the build, should take about 40 seconds - **this'll count towards your free GitHub Actions minutes (consumed at 2x)** 
 - When the build completes, click on **Summary** and scroll to the artifacts section. You can download the xll, it's attached!
 - Unblock the downloaded file and move it out of your Downloads folder. Desktop is fine. More info: https://support.microsoft.com/en-gb/topic/excel-is-blocking-untrusted-xll-add-ins-by-default-1e3752e2-1177-4444-a807-7b700266a6fb
 - Double click the .xll to open in Excel
