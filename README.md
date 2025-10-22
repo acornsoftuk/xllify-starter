@@ -6,11 +6,11 @@ This is a template repo so you can create a copy of it and have a ready to build
 
 Slightly more sophisticated demos are available in the [xllify-demo](https://github.com/acornsoftuk/xllify-demo) repo. You can download a built XLL straight from the releases page.
 
-## Get started, entirely through the GitHub
+## Get started, entirely on GitHub
 
 No need for any installation or Windows development setup. Just a browser (and Microsoft Excel for Windows, if you want to download and run your masterpiece.)
 
-This is not a recommended replacement for a development environment with VS Code or similar, but it's enough to give you the gist without installing anthing.
+This is not a recommended replacement for a development environment, but it's enough to give you the gist without installing anthing.
 
 Some familiarity with the GitHub Actions UI is helpful but, briefly:
 
