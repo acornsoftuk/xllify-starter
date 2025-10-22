@@ -16,7 +16,7 @@ Some familiarity with the GitHub Actions UI is helpful but, briefly:
 
 ### Initial build
 
-- Select **Use this template** (the green button on the top right) and **Create a new repository**
+- [Use this template to create a repository](https://github.com/new?template_name=xllify-starter&template_owner=acornsoftuk)
 - Go to the Actions tab, select **xllify Starter** and click on Run workflow
   - This will build an XLL
 - Find the workflow run and observe the build, should take about 40 seconds - **this'll count towards your GitHub Actions minutes (consumed at 2x), but as everyone gets a free quota it shouldn't cost much, if anything.**
