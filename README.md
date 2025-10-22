@@ -12,6 +12,8 @@ No need for any installation or Windows development setup. Just a browser (and M
 
 This is not a recommended replacement for a development environment, but it's enough to give you the gist without installing anthing.
 
+A video of the process is here: https://youtu.be/dYObyXQCrKs
+
 Some familiarity with the GitHub Actions UI is helpful but, briefly:
 
 ### Initial build
